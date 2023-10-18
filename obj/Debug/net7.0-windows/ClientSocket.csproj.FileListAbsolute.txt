@@ -1,0 +1,17 @@
+E:\unifenas\SD\2023\ClientSocket\bin\Debug\net7.0-windows\ClientSocket.exe
+E:\unifenas\SD\2023\ClientSocket\bin\Debug\net7.0-windows\ClientSocket.deps.json
+E:\unifenas\SD\2023\ClientSocket\bin\Debug\net7.0-windows\ClientSocket.runtimeconfig.json
+E:\unifenas\SD\2023\ClientSocket\bin\Debug\net7.0-windows\ClientSocket.dll
+E:\unifenas\SD\2023\ClientSocket\bin\Debug\net7.0-windows\ClientSocket.pdb
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.csproj.AssemblyReference.cache
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.Form1.resources
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.csproj.GenerateResource.cache
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.GeneratedMSBuildEditorConfig.editorconfig
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.AssemblyInfoInputs.cache
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.AssemblyInfo.cs
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.csproj.CoreCompileInputs.cache
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.dll
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\refint\ClientSocket.dll
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.pdb
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ClientSocket.genruntimeconfig.cache
+E:\unifenas\SD\2023\ClientSocket\obj\Debug\net7.0-windows\ref\ClientSocket.dll
